@@ -1,0 +1,9 @@
+.add-form-item{
+    margin-top: 10px;
+    justify-content: space-between;
+    /* display: inline-block; */
+}
+
+.add-form-item input{
+    max-width: 300px;
+}
